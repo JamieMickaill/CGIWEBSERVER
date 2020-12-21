@@ -1,0 +1,4 @@
+  File "./cgibin/hello.sh", line 1
+    echo Hello from Shell!
+         ^
+SyntaxError: invalid syntax
